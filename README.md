@@ -3,6 +3,7 @@
 
 # DSolver
 금융권 코딩테스트 대비 알고리즘 스터디 🏦
+
 # 🔥 코딩 테스트 스터디 🔥
 
 프로그래머스 문제 풀이를 통한 코딩 테스트 대비 스터디입니다.
@@ -15,22 +16,25 @@
 
 - 매주 스터디원들이 함께 **알고리즘/자료구조 주제와 문제**를 선정합니다.
 - 각자 해당 주제를 학습하고, 관련 문제를 풀어 PR을 올립니다.
-- 나머지 스터디원들이 코드 리뷰를 진행합니다.
-- 주 1회 목요일날 위클리 스크럼에서 풀이를 공유하고 피드백을 나눕니다. 
+- 나머지 스터디원들이 [코드 리뷰](https://github.com/been12151/DSolver/pulls)를 진행합니다.
+- 주 1회 목요일날 위클리 스크럼에서 풀이를 공유하고 피드백을 나눕니다.
 
 > 💡 **모의 코딩테스트** — 하반기 코테 시작 전 기출 문제로 실전 감각을 익히는 모의 테스트를 진행할 예정입니다.
+(자격증 시험 빼고)
+
 ---
 
 ## 🔸 참여 방법
 
-[### 🔹 문제 신청
+### 🔹 문제 신청 [(✈ 문제 등록하기)](https://github.com/been12151/DSolver/issues/new?template=issue-template.md)
 Issues에 풀고 싶은 문제를 등록해 주세요.
 
 ### 🔹 소스 코드 업로드 및 리뷰 요청
 1. Main branch에서 새 branch를 생성한다.
 2. 해결한 문제의 소스 코드를 본인 branch에 push한다.
-3. Pull Request를 통해 [코드 리뷰](https://github.com/been12151/DSolver/pulls)를 요청한다.
+3. Pull Request를 통해 코드 리뷰를 요청한다.
 4. 리뷰를 받고 수정이 완료되면 Label을 변경한다.
+
 ---
 
 ## 🔹 Code Review 규칙
@@ -137,7 +141,9 @@ body (optional)
 - 코드 리뷰 기한(수요일 23:59)도 동일하게 적용한다.
 - 부득이한 사정은 언제든지 편하게 말해주세요 🙂
 
-🔸 참여자
+---
+
+## 🔸 참여자
 
 <table>
   <tr>
@@ -161,3 +167,8 @@ body (optional)
     </td>
   </tr>
 </table>
+
+[issues-shield]: https://img.shields.io/github/issues/been12151/DSolver?style=for-the-badge
+[issues-url]: https://github.com/been12151/DSolver/issues
+[pr-shield]: https://img.shields.io/github/issues-pr/been12151/DSolver?style=for-the-badge
+[pr-url]: https://github.com/been12151/DSolver/pulls
