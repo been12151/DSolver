@@ -27,7 +27,7 @@ Issues에 풀고 싶은 문제를 등록해 주세요.
 ### 🔹 소스 코드 업로드 및 리뷰 요청
 1. Main branch에서 새 branch를 생성한다.
 2. 해결한 문제의 소스 코드를 본인 branch에 push한다.
-3. Pull Request를 통해 [코드 리뷰](https://github.com/been12151/DSolver/pulls))를 요청한다.
+3. Pull Request를 통해 [코드 리뷰](https://github.com/been12151/DSolver/pulls)를 요청한다.
 4. 리뷰를 받고 수정이 완료되면 Label을 변경한다.
 ---
 
