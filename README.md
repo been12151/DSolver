@@ -1,12 +1,9 @@
 [![Issues][issues-shield]][issues-url]
 [![Pull Requests][pr-shield]][pr-url]
 
-# DSolver
+# 🔥 DSolver 🔥
 금융권 코딩테스트 대비 알고리즘 스터디 🏦
 
-# 🔥 코딩 테스트 스터디 🔥
-
-프로그래머스 문제 풀이를 통한 코딩 테스트 대비 스터디입니다.
 
 매주 ✔ **월요일 23:59** 까지 문제를 풀고 PR을 올리며, ✔ **수요일 23:59** 까지 코드 리뷰를 완료합니다.
 
