@@ -21,15 +21,14 @@
 
 ## 🔸 참여 방법
 
-### 🔹 문제 신청
+[### 🔹 문제 신청
 Issues에 풀고 싶은 문제를 등록해 주세요.
 
 ### 🔹 소스 코드 업로드 및 리뷰 요청
 1. Main branch에서 새 branch를 생성한다.
 2. 해결한 문제의 소스 코드를 본인 branch에 push한다.
-3. Pull Request를 통해 코드 리뷰를 요청한다.
+3. Pull Request를 통해 [코드 리뷰](https://github.com/been12151/DSolver/pulls))를 요청한다.
 4. 리뷰를 받고 수정이 완료되면 Label을 변경한다.
-
 ---
 
 ## 🔹 Code Review 규칙
@@ -135,3 +134,28 @@ body (optional)
 - PR 기한(월요일 23:59)을 지키지 못할 경우, 미리 스터디원들에게 공유한다.
 - 코드 리뷰 기한(수요일 23:59)도 동일하게 적용한다.
 - 부득이한 사정은 언제든지 편하게 말해주세요 🙂
+
+🔸 참여자
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/been12151">
+        <img src="https://avatars.githubusercontent.com/been12151" width="110px;" alt=""/><br />
+        <sub><b>김원빈</b></sub></a><br />
+        <a href="https://github.com/been12151" title="Code">💻</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yangyeeeun">
+        <img src="https://avatars.githubusercontent.com/yangyeeeun" width="110px;" alt=""/><br />
+        <sub><b>양예은</b></sub></a><br />
+        <a href="https://github.com/yangyeeeun" title="Code">💻</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gayo73">
+        <img src="https://avatars.githubusercontent.com/gayo73" width="110px;" alt=""/><br />
+        <sub><b>손가영</b></sub></a><br />
+        <a href="https://github.com/gayo73" title="Code">💻</a>
+    </td>
+  </tr>
+</table>
