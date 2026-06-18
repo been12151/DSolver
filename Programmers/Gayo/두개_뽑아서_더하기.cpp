@@ -14,6 +14,5 @@ vector<int> solution(vector<int> numbers) {
         }
     }
     vector<int> answer(del.begin(), del.end());
-    
     return answer;
 }
