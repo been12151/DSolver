@@ -1,29 +1,36 @@
 #include <string>
 #include <vector>
-#include <unordered_map>
-#include <utility>
+#include <algorithm>
 
 using namespace std;
 
-vector<string> solution(vector<string> players, vector<string> callings) {
-    vector<string> answer;
-    unordered_map<string, int> curr;
+vector<int> solution(vector<int> arr) {
+    vector<int> answer;
     
-    for(int i=0; i<players.size(); i++){
-        curr[players[i]] = i;
+    if(arr.size()<=1){
+        answer.push_back(-1);
+    }
+    else{
+        answer = arr;
+        answer.erase(min_element(answer.begin(), answer.end()));
     }
     
-    for(string call : callings){
-        int curr_idx = curr[call];
-        int prev_idx = curr_idx - 1;
-        
-        string prev_name = players[prev_idx];
-        swap(players[curr_idx], players[prev_idx]);
-        
-        curr[call] = prev_idx;
-        curr[prev_name] = curr_idx;
-    }
+    /*else{
+        int min = arr[0];
+        for(int i=1; i<arr.size(); i++){
+            if(arr[i]<min){
+                min = arr[i];
+            }
+        }
+        for(int i=0; i<arr.size(); i++){
+            if(arr[i]!=min){
+                answer.push_back(arr[i]);
+            }
+            else{
+                continue;
+            }
+        }
+    }*/
     
-    answer = players;
     return answer;
 }
